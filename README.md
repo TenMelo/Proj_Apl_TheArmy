@@ -39,4 +39,4 @@ de automação de tarefas.
 3  DEFINIÇÃO DA BASE DE DADOS
 
 Para a base dados foi escolhido um database contendo imagens de pessoas cadeirantes e não cadeirantes, para que seja feito um algoritmo capaz 
-de analisar essas imagens e gerar um resultado indicando em qual categoria a imagem se enquadra.
+de analisar essas imagens e gerar um resultado indicando em qual categoria a imagem se enquadra. teste
