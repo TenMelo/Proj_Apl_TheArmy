@@ -1,5 +1,4 @@
 # Proj_Apl_TheArmy
-Projeto Aplicado teste
 
 -------------
 1. INTRODUÇÃO 
